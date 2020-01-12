@@ -1,0 +1,27 @@
+﻿  source.cpp
+C:\Users\Unatro\Desktop\SpritePractice\SpritePractice\source.cpp(24,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Unatro\Desktop\SpritePractice\SpritePractice\source.cpp(25,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Unatro\Desktop\SpritePractice\SpritePractice\source.cpp(27,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Unatro\Desktop\SpritePractice\SpritePractice\source.cpp(27,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Unatro\Desktop\SpritePractice\SpritePractice\source.cpp(611,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SpritePractice.vcxproj -> C:\Users\Unatro\Desktop\SpritePractice\x64\Debug\SpritePractice.exe

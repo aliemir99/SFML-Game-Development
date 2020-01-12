@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(268,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(296,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(358,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(362,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(387,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(391,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(413,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(417,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(440,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(444,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Unatro\Desktop\SFMLV2\SFMLV2\Source.cpp(469,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SFMLV2.vcxproj -> C:\Users\Unatro\Desktop\SFMLV2\x64\Debug\SFMLV2.exe
